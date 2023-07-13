@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Assessment</b>  
-- <b>Active Directory Home Lab</b> 
+- <b>Active Directory Home Lab</b>
+- <b>Linux Labs</b>
+  - [Practicing Linux Labs](https://github.com/suruchiaggarwal/LinuxLabs)
 
 <h2>📺 Pentester Labs</h2>
 
